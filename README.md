@@ -1,20 +1,44 @@
-Arpan Nandi – AI/ML Portfolio
-This repository contains my personal portfolio website showcasing my work in Artificial Intelligence, Machine Learning, and Data Science. The site highlights my projects, technical skills, and background in data-driven technologies.
+# Arpan Nandi – AI & Data Science Portfolio
 
-About Me
-I am Arpan Nandi, an MBA student specializing in Data Science & Analytics.
-I am passionate about building intelligent systems using AI, machine learning, and data analytics to solve real-world problems
+Welcome to my portfolio repository.
 
-Featured Projects
-1. Criminal Detection System
-Real-time facial recognition system built using CNN, TensorFlow, and OpenCV.
+I am an MBA student specializing in **Data Science and Data Analytics** with a strong interest in **Artificial Intelligence, LLMs, and data-driven decision making**.
 
-2. Sentiment Analysis Pipeline
-NLP system that analyzes customer reviews and visualizes insights using Power BI.
+This portfolio showcases some of my key projects in AI, Machine Learning, NLP, and Data Analytics.
 
-3. Movie Recommendation Engine
-Hybrid recommendation system using collaborative and content-based filtering.
+---
 
-4. IoT Healthcare Monitoring System
-Energy-efficient healthcare monitoring solution for wireless sensor networks.
+## Projects
 
+### 1. Criminal Detection System (Deep Learning)
+Developed a real-time facial classification system using CNN, TensorFlow, and OpenCV to identify individuals through webcam input.
+
+### 2. Sentiment Analysis of Customer Reviews
+Built an NLP pipeline using Python, NLTK, and Scikit-learn to classify customer reviews and visualize insights with Power BI.
+
+### 3. Movie Recommendation System
+Created a recommendation engine using collaborative and content-based filtering to provide personalized movie suggestions.
+
+### 4. IoT Healthcare Monitoring System
+Designed an energy-efficient IoT healthcare monitoring system using data compression techniques for wireless sensor networks.
+
+---
+
+## Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- NLP & LLM
+- SQL & Database Management
+- Data Visualization (Power BI, Tableau)
+
+---
+
+
+
+---
+
+## Contact
+
+Email: arpannandi101@gmail.com  
