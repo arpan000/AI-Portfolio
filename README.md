@@ -1,5 +1,8 @@
 # Arpan Nandi – AI & Data Science Portfolio
 
+🌐 **Live Portfolio:**  
+https://arpan000.github.io/AI-Portfolio/
+
 Welcome to my portfolio repository.
 
 I am an MBA student specializing in **Data Science and Data Analytics** with a strong interest in **Artificial Intelligence, LLMs, and data-driven decision making**.
